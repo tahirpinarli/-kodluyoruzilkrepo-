@@ -2,7 +2,7 @@
 
 ## Installation
 
-## Önce Projenin Kopyalanması (https://github.com/tahirpinarli/-kodluyoruzilkrepo-/edit/main/README.md)
+Önce Projenin Kopyalanması (https://github.com/tahirpinarli/-kodluyoruzilkrepo-/edit/main/README.md)
 ```
 git clone https://github.com/tahirpinarli/-kodluyoruzilkrepo-/edit/main/README.md
 ```
