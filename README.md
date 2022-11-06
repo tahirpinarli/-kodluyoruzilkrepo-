@@ -1,12 +1,12 @@
 # -kodluyoruzilkrepo-
 
-##Installation
+## Installation
 
-##Önce Projenin Kopyalanması (https://github.com/tahirpinarli/-kodluyoruzilkrepo-/edit/main/README.md)
+## Önce Projenin Kopyalanması (https://github.com/tahirpinarli/-kodluyoruzilkrepo-/edit/main/README.md)
 ```
 git clone https://github.com/tahirpinarli/-kodluyoruzilkrepo-/edit/main/README.md
 ```
-##Usage
+## Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız. Linux için:
 ```
@@ -14,9 +14,9 @@ cd kodluyoruzilkrepo
 code .
 ```
 
-##Contributing
+## Contributing
 
 Pull requestler kabul edilir. Büyük değişiklikler için önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-##License
-[MİT] (https://choosealicense.com/licenses/mit/)
+## License
+[MİT](https://choosealicense.com/licenses/mit/)
